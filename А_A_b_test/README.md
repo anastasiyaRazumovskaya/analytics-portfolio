@@ -11,8 +11,8 @@ _____________________
 	* mainscreenappear	
 	* offersscreenappear	
 	* cartscreenappear	
-	* paymentscreensuccessful	
-Был сделан вывод о том, на каком этапе теряется максимальное количество пользователей.<br>	
+	* paymentscreensuccessful <br>	
+Был сделан вывод о том, на каком этапе теряется максимальное количество пользователей.<br>
 [График воронки](funnel_plot.png)
 
 2. Анализ результатов А\А\B теста по изменеию шрифта.
